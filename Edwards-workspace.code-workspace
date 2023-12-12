@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../fe coding week1"
+		},
+		{
+			"path": "../labs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "htmlprojext"
+	}
+}

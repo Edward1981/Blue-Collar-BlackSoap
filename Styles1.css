@@ -1,0 +1,24 @@
+table, th, td {border-style: double; color: aliceblue;}/*how do i make my text and border different color?*/
+
+body {background-color: black;}
+body {color: red;}
+/*element selector*/
+h1 {text-align: center;}
+h2 {text-align: center;}
+h2 {text-decoration: underline;}
+img {display: block;
+     margin-left: auto;
+     margin-right: auto;}
+
+ul {text-transform: capitalize;}
+nav {text-align: center;}
+/* class selector*/
+p.center {text-align: center; font-size: x-large;}
+button {background-color: green; color: blue;}
+button:hover {background-color: black;color: red}
+a:link {color:white}
+a:visited {color:blue}
+/*id selector*/
+#Welcome {text-align: center; font-size: larger; text-decoration: underline cornflowerblue;}
+#list {text-decoration: underline cornflowerblue}
+
