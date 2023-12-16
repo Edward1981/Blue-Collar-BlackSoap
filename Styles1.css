@@ -1,5 +1,9 @@
-table, th, td {border-style: double; color: aliceblue;}/*how do i make my text and border different color?*/
-
+/*Using id tag and class tags I set my table text to different
+color than my table borders*/
+table,th,td {border-style:inset;border-width:2px;border-color:white}
+.th-header {color: red }
+#td-data {color: red }
+/*enter html or text content*/
 body {background-color: black;}
 body {color: red;}
 /*element selector*/
